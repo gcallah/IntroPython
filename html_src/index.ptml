@@ -1,0 +1,92 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Introduction to Programming Using Python
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Introduction to Programming Using Python
+        </h1>
+
+        <h3>
+            Course Topics
+        </h3>
+
+        <ol>
+            <li>
+                Introduction
+            </li>
+
+            <li>
+                Variables and Data Types
+            </li>
+
+            <li>
+                Basic Operators
+            </li>
+
+            <li>
+                Expressions
+            </li>
+
+            <li>
+                Number Systems
+            </li>
+
+            <li>
+                Using Modules
+            </li>
+
+            <li>
+                Booleans and Advanced Expressions
+            </li>
+
+            <li>
+                Branching
+            </li>
+
+            <li>
+                Iterating
+            </li>
+
+            <li>
+                Strings
+            </li>
+
+            <li>
+                Functions
+            </li>
+
+            <li>
+                Lists and Tuples
+            </li>
+
+            <li>
+                File Input and Output
+            </li>
+
+            <li>
+                Exceptions
+            </li>
+
+            <li>
+                Dictionaries
+            </li>
+
+            <li>
+                Object-Oriented Programming
+            </li>
+
+            <li>
+                Recursion
+            </li>
+
+        </ol>
+
+    </body>
+</html>

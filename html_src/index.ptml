@@ -19,9 +19,22 @@
 
         <ol>
             <li>
-                <a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Intro.ipynb">
                 Introduction
-                </a>
+                <br />
+                <ul>
+                    <li>
+                        <a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Intro.ipynb">
+                        A first program
+                        </a>
+                    </li>
+
+                    <li>
+                        <a
+                            href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Parts.ipynb">
+                        The parts of a program
+                        </a>
+                    </li>
+                </ul>
             </li>
 
             <li>

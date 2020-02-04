@@ -30,7 +30,7 @@
 
                     <li>
                         <a
-                            href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Parts.ipynb">
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Parts.ipynb">
                         The parts of a program
                         </a>
                     </li>
@@ -38,7 +38,10 @@
             </li>
 
             <li>
+                <a 
+                 href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Variables.ipynb">
                 Variables and Data Types
+                </a> 
             </li>
 
             <li>

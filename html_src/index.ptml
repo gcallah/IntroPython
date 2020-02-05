@@ -45,7 +45,10 @@
             </li>
 
             <li>
+                <a 
+                 href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb">
                 Basic Operators
+                </a> 
             </li>
 
             <li>

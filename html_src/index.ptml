@@ -68,6 +68,15 @@
                  href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb">
                 Basic Operators
                 </a> 
+
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb">
+                        Operators
+                        </a>
+                    </li>
+                </ul>
             </li>
 
             <li>
@@ -76,6 +85,15 @@
 
             <li>
                 Number Systems
+
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb">
+                        Representing Numbers
+                        </a>
+                    </li>
+                </ul>
             </li>
 
             <li>
@@ -84,18 +102,61 @@
 
             <li>
                 Booleans and Advanced Expressions
+
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb">
+                        Boolean Expressions
+                        </a>
+                    </li>
+                </ul>
+
             </li>
 
             <li>
                 Branching
+
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Branching.ipynb">
+                        Branching
+                        </a>
+                    </li>
+                </ul>
             </li>
 
             <li>
                 Iterating
+
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Looping.ipynb">
+                        Looping 1
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Looping2.ipynb">
+                        Looping 2
+                        </a>
+                    </li>
+                </ul>
             </li>
 
             <li>
                 Strings
+
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb">
+                        String Processing
+                        </a>
+                    </li>
+                </ul>
             </li>
 
             <li>

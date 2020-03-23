@@ -147,7 +147,14 @@
                     <li>
                         <a
                          href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb">
-                        String Processing
+                        String Processing, Part 1
+                        </a>
+                    </li>
+
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings2.ipynb">
+                        String Processing, Part 2
                         </a>
                     </li>
                 </ul>
@@ -155,6 +162,16 @@
 
             <li>
                 Functions
+
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions.ipynb">
+                        Functions, Part 1
+                        </a>
+                    </li>
+
+                </ul>
             </li>
 
             <li>

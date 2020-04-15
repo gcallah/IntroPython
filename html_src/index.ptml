@@ -183,14 +183,55 @@
 
             <li>
                 Lists and Tuples
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists1.ipynb">
+                        Lists, Part 1
+                        </a>
+                    </li>
+
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb">
+                        Lists, Part 2
+                        </a>
+                    </li>
+
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb">
+                        List Comprehensions
+                        </a>
+                    </li>
+                </ul>
+
             </li>
 
             <li>
                 File Input and Output
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb">
+                        Files
+                        </a>
+                    </li>
+                </ul>
+
             </li>
 
             <li>
                 Exceptions
+                <ul>
+                    <li>
+                        <a
+                         href="https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb">
+                        Files and Exceptions
+                        </a>
+                    </li>
+                </ul>
+
             </li>
 
             <li>

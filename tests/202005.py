@@ -36,7 +36,7 @@ else:
     print("NetID not found.")
 
 """
-Write a simple program to check if a number is prime.
+Write a function `is_prime` to check if a number is prime.
 (A prime number is divisible only by 1 and itself.)
 Use the modulus operator in your check.
 When we say "simple" we mean you don't need to worry
@@ -54,19 +54,35 @@ And you might want to use "import math" here!
 # sample code:
 import math
 
+def is_prime(num_to_check):
+    """
+    The students don't need the print statements:
+    they are just to help me debug.
+    """
+    stop = math.floor(math.sqrt(num_to_check)) + 1
+    for i in range(2, stop):
+        if num_to_check % i == 0:
+            print(num_to_check, "is not prime: divisible by", i)
+            return False
+    if is_prime:
+        print(num_to_check, "is indeed prime!")
+        return True
+
 num_to_check = int(
     input("Enter a number and I will tell you if it's prime: "))
-stop = math.floor(math.sqrt(num_to_check)) + 1
-is_prime = True
-for i in range(2, stop):
-    if num_to_check % i == 0:
-        print(num_to_check, "is not prime: divisible by", i)
-        is_prime = False
-        break
-if is_prime:
-    print(num_to_check, "is indeed prime!")
+is_prime(num_to_check)
 
 """
-
+Now, use `is_prime()` in a list comprehension to write 
+a function `just_primes()` that, when passed a list,
+returns a list containing only the prime numbers in the
+list.
 """
+
+# sample code
+def just_primes(l):
+    return [n for n in l if is_prime(n)]
+
+test_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+print("Primes in test_list are", just_primes(test_list))
 

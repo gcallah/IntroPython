@@ -29,7 +29,6 @@ local: $(HTMLFILES)
 
 prod: $(INCS) $(HTMLFILES) tests
 	-git commit -a 
-	git pull origin master
 	git push origin master
 
 submods:

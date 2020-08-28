@@ -13,16 +13,19 @@
 <h1>Introduction to Programming Using Python</h1>
 <p>The following are the topics for Fall 2020. We will be linking to Jupyter Notebooks for these topics as they become available:</p>
 <ul>
-<li>Introduction to Course and Karel</li>
+<li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html">Introduction to Karel</a></li>
 <li>Karel - Functions/Control structures (if statement)</li>
 <li>Karel - Functional decomposition</li>
 <li>Karel - Program style/Control structures (while loops)</li>
 <li>Input/Output, Variables, Values</li>
-<li>Types, Operators, and Expressions</li>
-<li>Turtle and for loops</li>
+<li>Types</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb">Operators</a></li>
+<li>Expressions</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb">Turtle graphics</a></li>
+<li>For loops</li>
 <li>Function parameters and the return statement</li>
-<li>Sequence types/Strings 1</li>
-<li>Strings II</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb">Strings I</a></li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/String2.ipynb">Strings II</a></li>
 <li>Using modules and Variable scope</li>
 <li>Lists and Tuples I</li>
 <li>Lists and Tuples II</li>

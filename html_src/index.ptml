@@ -27,15 +27,16 @@
 <li>Values</li>
 <li>Types</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb">Operators</a></li>
-<li>Expressions</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb">Boolean Expressions</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb">Turtle graphics</a></li>
 <li>For loops</li>
 <li>Function parameters and the return statement</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb">Strings I</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/String2.ipynb">Strings II</a></li>
 <li>Using modules and Variable scope</li>
-<li>Lists and Tuples I</li>
-<li>Lists and Tuples II</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists1.ipynb">Lists I</a></li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb">Lists II</a></li>
+<li>Tuples</li>
 <li>Type conversion</li>
 <li>Command-line arguments</li>
 <li>Files, File I/O, and Exceptions I</li>

@@ -16,9 +16,9 @@
 <li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html">Introduction to Karel</a></li>
 <li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter2.html">Programming Karel</a></li>
 <li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter3.html">Karel: Functions</a></li>
-<li>Karel: Control structures (if statement)</li>
+<li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.html">Karel: If statement</a></li>
 <li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html">Karel: Functional decomposition</a></li>
-<li>Karel: Program style/Control structures (while loops)</li>
+<li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html">Karel: While loops</a></li>
 <li>Input/Output, Variables, Values</li>
 <li>Types</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb">Operators</a></li>

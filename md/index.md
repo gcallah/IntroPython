@@ -30,39 +30,45 @@ decomposition](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4
 - [Karel: While
 loops](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html)
 - Input/Output
--
-[Variables](https://github.com/gcallah/IntroPython/blob/master/notebooks/Variables.ipynb)
-- Values
+- [Variables](https://github.com/gcallah/IntroPython/blob/master/notebooks/Variables.ipynb)
 - Types
 - [Operators](https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb)
 - [Boolean
 Expressions](https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb)
 - [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
 - For loops
-- Function parameters and the return statement
+- [Functions
+I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions.ipynb)
+- [Functions
+II](https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions2.ipynb)
 - [Strings
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb)
 - [Strings
 II](https://github.com/gcallah/IntroPython/blob/master/notebooks/String2.ipynb)
-- Using modules and Variable scope
+- Using modules and variable scope
 - [Lists
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists1.ipynb)
 - [Lists
 II](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb)
-- Tuples
+- [Tuples](https://github.com/gcallah/IntroPython/blob/master/notebooks/Tuples.ipynb)
 - Type conversion
 - Command-line arguments
-- Files, File I/O, and Exceptions I
-- Files, File I/O, and Exceptions II
+- [File
+I/O](https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb)
+- [Files and
+exceptions](https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb)
 - Sets
-- Dictionaries I
+- [Dictionaries
+I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dictionaries1.ipynb)
 - Dictionaries II
-- Binary representation and other number systems
+- [Binary representation and other number
+systems](https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb)
 - Object-Oriented Programming
 - OOP: Classes and objects I
 - OOP: Classes and objects II
 - OOP: Attributes and methods
-- List and Dictionary Comprehensions
+- [List and dictionary
+comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb)
 
 </body>
 </html>

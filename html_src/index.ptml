@@ -20,36 +20,33 @@
 <li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html">Karel: Functional decomposition</a></li>
 <li><a href="https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html">Karel: While loops</a></li>
 <li>Input/Output</li>
-<li></li>
-</ul>
-<p><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Variables.ipynb">Variables</a></p>
-<ul>
-<li>Values</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Variables.ipynb">Variables</a></li>
 <li>Types</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb">Operators</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb">Boolean Expressions</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb">Turtle graphics</a></li>
 <li>For loops</li>
-<li>Function parameters and the return statement</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions.ipynb">Functions I</a></li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions2.ipynb">Functions II</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb">Strings I</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/String2.ipynb">Strings II</a></li>
-<li>Using modules and Variable scope</li>
+<li>Using modules and variable scope</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists1.ipynb">Lists I</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb">Lists II</a></li>
-<li>Tuples</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Tuples.ipynb">Tuples</a></li>
 <li>Type conversion</li>
 <li>Command-line arguments</li>
-<li>Files, File I/O, and Exceptions I</li>
-<li>Files, File I/O, and Exceptions II</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb">File I/O</a></li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb">Files and exceptions</a></li>
 <li>Sets</li>
-<li>Dictionaries I</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Dictionaries1.ipynb">Dictionaries I</a></li>
 <li>Dictionaries II</li>
-<li>Binary representation and other number systems</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb">Binary representation and other number systems</a></li>
 <li>Object-Oriented Programming</li>
 <li>OOP: Classes and objects I</li>
 <li>OOP: Classes and objects II</li>
 <li>OOP: Attributes and methods</li>
-<li>List and Dictionary Comprehensions</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb">List and dictionary comprehensions</a></li>
 </ul>
 </body>
 </html>

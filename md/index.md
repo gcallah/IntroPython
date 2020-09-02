@@ -63,8 +63,8 @@ I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dictionaries1.ip
 - Dictionaries II
 - [Binary representation and other number
 systems](https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb)
-- Object-Oriented Programming
-- OOP: Classes and objects I
+- [OOP: Classes and objects
+I](https://github.com/gcallah/IntroPython/blob/master/notebooks/OOP.ipynb)
 - OOP: Classes and objects II
 - OOP: Attributes and methods
 - [List and dictionary

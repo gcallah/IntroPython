@@ -36,7 +36,8 @@ loops](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html)
 - [Boolean
 Expressions](https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb)
 - [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
-- For loops
+- [For
+loops](https://github.com/gcallah/IntroPython/blob/master/notebooks/ForLoop.ipynb)
 - [Functions
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions.ipynb)
 - [Functions

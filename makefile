@@ -6,7 +6,7 @@ export MARKDOWN_DIR = md
 PTML_DIR = html_src
 UTILS_DIR = utils
 DOCKER_DIR = docker
-PANDOC = $${HOME}/pandoc-2.9.2.1/bin/pandoc
+PANDOC = $${PANDOC_DIR}
 # REPO = this repo!
 
 INCS = $(TEMPLATE_DIR)/head.txt $(TEMPLATE_DIR)/logo.txt $(TEMPLATE_DIR)/menu.txt

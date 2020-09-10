@@ -29,7 +29,7 @@ statement](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.htm
 decomposition](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html)
 - [Karel: While
 loops](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html)
-- Input/Output
+- [Input/Output](https://github.com/gcallah/IntroPython/blob/master/notebooks/InputOutput.ipynb)
 - [Variables](https://github.com/gcallah/IntroPython/blob/master/notebooks/Variables.ipynb)
 - Types
 - [Operators](https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb)

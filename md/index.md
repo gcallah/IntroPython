@@ -27,6 +27,8 @@ Functions](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter3.htm
 statement](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.html)
 - [Karel: Functional
 decomposition](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html)
+- [Notebook on
+decomposition](https://github.com/gcallah/IntroPython/blob/master/notebooks/Decomposition.ipynb)
 - [Karel: While
 loops](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html)
 - [Input/Output](https://github.com/gcallah/IntroPython/blob/master/notebooks/InputOutput.ipynb)

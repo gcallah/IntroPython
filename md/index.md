@@ -31,9 +31,9 @@ decomposition](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4
 decomposition](https://github.com/gcallah/IntroPython/blob/master/notebooks/Decomposition.ipynb)
 - [Karel: While
 loops](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html)
-- [Input/Output](https://github.com/gcallah/IntroPython/blob/master/notebooks/InputOutput.ipynb)
+- [Types](https://github.com/gcallah/IntroPython/blob/master/notebooks/Types.ipynb)
 - [Variables](https://github.com/gcallah/IntroPython/blob/master/notebooks/Variables.ipynb)
-- Types
+- [Input/Output](https://github.com/gcallah/IntroPython/blob/master/notebooks/InputOutput.ipynb)
 - [Operators](https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb)
 - [Boolean
 Expressions](https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb)

@@ -37,9 +37,10 @@ loops](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter6.html)
 - [Operators](https://github.com/gcallah/IntroPython/blob/master/notebooks/Operators.ipynb)
 - [Boolean
 Expressions](https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb)
-- [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
+- [Branching](https://github.com/gcallah/IntroPython/blob/master/notebooks/Branching.ipynb)
 - [For
 loops](https://github.com/gcallah/IntroPython/blob/master/notebooks/ForLoop.ipynb)
+- [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
 - [Functions
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions.ipynb)
 - [Functions

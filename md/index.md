@@ -40,7 +40,6 @@ Expressions](https://github.com/gcallah/IntroPython/blob/master/notebooks/Boolea
 - [Branching](https://github.com/gcallah/IntroPython/blob/master/notebooks/Branching.ipynb)
 - [For
 loops](https://github.com/gcallah/IntroPython/blob/master/notebooks/ForLoop.ipynb)
-- [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
 - [Functions
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions.ipynb)
 - [Functions
@@ -61,7 +60,6 @@ II](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb)
 I/O](https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb)
 - [Files and
 exceptions](https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb)
-- Sets
 - [Dictionaries
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dictionaries1.ipynb)
 - Dictionaries II
@@ -73,6 +71,13 @@ I](https://github.com/gcallah/IntroPython/blob/master/notebooks/OOP.ipynb)
 - OOP: Attributes and methods
 - [List and dictionary
 comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb)
+- Sets I
+- Sets II
+
+
+### Extras:
+
+- [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
 
 </body>
 </html>

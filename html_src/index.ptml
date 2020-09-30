@@ -27,7 +27,6 @@
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/BooleanExpr.ipynb">Boolean Expressions</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Branching.ipynb">Branching</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ForLoop.ipynb">For loops</a></li>
-<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb">Turtle graphics</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions.ipynb">Functions I</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions2.ipynb">Functions II</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb">Strings I</a></li>
@@ -40,7 +39,6 @@
 <li>Command-line arguments</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb">File I/O</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb">Files and exceptions</a></li>
-<li>Sets</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Dictionaries1.ipynb">Dictionaries I</a></li>
 <li>Dictionaries II</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb">Binary representation and other number systems</a></li>
@@ -48,6 +46,12 @@
 <li>OOP: Classes and objects II</li>
 <li>OOP: Attributes and methods</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb">List and dictionary comprehensions</a></li>
+<li>Sets I</li>
+<li>Sets II</li>
+</ul>
+<h3>Extras:</h3>
+<ul>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb">Turtle graphics</a></li>
 </ul>
 </body>
 </html>

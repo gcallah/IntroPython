@@ -78,6 +78,9 @@ comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lis
 ### Extras:
 
 - [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
+- [Shallow vs. Deep
+Copy](https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep.ipynb)
+- [Pandas](https://github.com/gcallah/Python4Finance/blob/master/Introduction%20to%20Pandas.ipynb)
 
 </body>
 </html>

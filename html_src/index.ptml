@@ -52,6 +52,8 @@
 <h3>Extras:</h3>
 <ul>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb">Turtle graphics</a></li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep.ipynb">Shallow vs. Deep Copy</a></li>
+<li><a href="https://github.com/gcallah/Python4Finance/blob/master/Introduction%20to%20Pandas.ipynb">Pandas</a></li>
 </ul>
 </body>
 </html>

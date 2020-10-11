@@ -47,7 +47,8 @@ II](https://github.com/gcallah/IntroPython/blob/master/notebooks/Functions2.ipyn
 - [Strings
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Strings.ipynb)
 - [Manipulating Strings](https://github.com/gcallah/IntroPython/blob/master/notebooks/ManipStrings.ipynb)
-- Using modules and variable scope
+- [Using
+Modules](https://github.com/gcallah/IntroPython/blob/master/notebooks/Modules.ipynb)
 - [Lists
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists1.ipynb)
 - [Lists

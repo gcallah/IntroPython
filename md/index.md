@@ -53,6 +53,8 @@ Modules](https://github.com/gcallah/IntroPython/blob/master/notebooks/Modules.ip
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists1.ipynb)
 - [Lists
 II](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb)
+- [Nested Lists
+II](https://github.com/gcallah/IntroPython/blob/master/notebooks/NestedLists.ipynb)
 - [Tuples](https://github.com/gcallah/IntroPython/blob/master/notebooks/Tuples.ipynb)
 - [Functional
 Programming](https://github.com/gcallah/IntroPython/blob/master/notebooks/FunctionalProgramming.ipynb)

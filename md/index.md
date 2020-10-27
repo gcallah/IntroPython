@@ -57,8 +57,7 @@ II](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb)
 - [Tuples](https://github.com/gcallah/IntroPython/blob/master/notebooks/Tuples.ipynb)
 - [Functional
 Programming](https://github.com/gcallah/IntroPython/blob/master/notebooks/FunctionalProgramming.ipynb)
-- Command-line arguments
-- [File
+- [Command-line arguments and File
 I/O](https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb)
 - [Files and
 exceptions](https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb)

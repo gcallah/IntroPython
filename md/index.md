@@ -57,7 +57,6 @@ II](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lists2.ipynb)
 - [Tuples](https://github.com/gcallah/IntroPython/blob/master/notebooks/Tuples.ipynb)
 - [Functional
 Programming](https://github.com/gcallah/IntroPython/blob/master/notebooks/FunctionalProgramming.ipynb)
-- Type conversion
 - Command-line arguments
 - [File
 I/O](https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb)
@@ -80,6 +79,8 @@ comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lis
 
 ### Extras:
 
+- [Type
+conversion](https://github.com/gcallah/IntroPython/blob/master/notebooks/TypeConversion.ipynb)
 - [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
 - [Shallow vs. Deep
 Copy](https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep.ipynb)

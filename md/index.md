@@ -63,7 +63,8 @@ I/O](https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb)
 exceptions](https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb)
 - [Dictionaries
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dictionaries1.ipynb)
-- Dictionaries II
+- [Shallow vs. Deep
+Copy](https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep.ipynb)
 - [Binary representation and other number
 systems](https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb)
 - [OOP: Classes and objects
@@ -72,8 +73,6 @@ I](https://github.com/gcallah/IntroPython/blob/master/notebooks/OOP.ipynb)
 - OOP: Attributes and methods
 - [List and dictionary
 comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb)
-- Sets I
-- Sets II
 
 
 ### Extras:
@@ -81,8 +80,6 @@ comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/Lis
 - [Type
 conversion](https://github.com/gcallah/IntroPython/blob/master/notebooks/TypeConversion.ipynb)
 - [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
-- [Shallow vs. Deep
-Copy](https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep.ipynb)
 - [Pandas](https://github.com/gcallah/Python4Finance/blob/master/Introduction%20to%20Pandas.ipynb)
 
 </body>

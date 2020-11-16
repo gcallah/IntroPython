@@ -40,22 +40,18 @@
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Files1.ipynb">Command-line arguments and File I/O</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/FilesAndExceptions.ipynb">Files and exceptions</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Dictionaries1.ipynb">Dictionaries I</a></li>
-<li>Dictionaries II</li>
+<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep.ipynb">Shallow vs. Deep Copy</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb">Binary representation and other number systems</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/OOP.ipynb">OOP: Classes and objects I</a></li>
 <li>OOP: Classes and objects II</li>
 <li>OOP: Attributes and methods</li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb">List and dictionary comprehensions</a></li>
-<li>Sets I</li>
-<li>Sets II</li>
 </ul>
 <h3>Extras:</h3>
 <ul>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/TypeConversion.ipynb">Type conversion</a></li>
 <li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb">Turtle graphics</a></li>
-<li><a href="https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep.ipynb">Shallow vs. Deep Copy</a></li>
 <li><a href="https://github.com/gcallah/Python4Finance/blob/master/Introduction%20to%20Pandas.ipynb">Pandas</a></li>
 </ul>
 </body>
 </html>
-

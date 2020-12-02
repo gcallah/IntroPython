@@ -69,8 +69,10 @@ Copy](https://github.com/gcallah/IntroPython/blob/master/notebooks/ShallowVsDeep
 systems](https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.ipynb)
 - [OOP: Classes and objects
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/OOP.ipynb)
-- OOP: Classes and objects II
-- OOP: Attributes and methods
+- [OOP:
+Inheritance](https://github.com/gcallah/IntroPython/blob/master/notebooks/Inheritance.ipynb)
+- [An Adventure
+Game](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dungeon.ipynb)
 - [List and dictionary
 comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb)
 

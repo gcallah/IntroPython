@@ -72,9 +72,9 @@ I](https://github.com/gcallah/IntroPython/blob/master/notebooks/OOP.ipynb)
 - [OOP:
 Inheritance](https://github.com/gcallah/IntroPython/blob/master/notebooks/Inheritance.ipynb)
 - [List
+comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb)
 - [An Adventure
 Game](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dungeon.ipynb)
-comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb)
 
 
 ### Extras:

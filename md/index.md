@@ -71,9 +71,9 @@ systems](https://github.com/gcallah/IntroPython/blob/master/notebooks/NumberRep.
 I](https://github.com/gcallah/IntroPython/blob/master/notebooks/OOP.ipynb)
 - [OOP:
 Inheritance](https://github.com/gcallah/IntroPython/blob/master/notebooks/Inheritance.ipynb)
+- [List
 - [An Adventure
 Game](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dungeon.ipynb)
-- [List and dictionary
 comprehensions](https://github.com/gcallah/IntroPython/blob/master/notebooks/ListComprehensions.ipynb)
 
 

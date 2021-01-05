@@ -83,6 +83,7 @@ Game](https://github.com/gcallah/IntroPython/blob/master/notebooks/Dungeon.ipynb
 conversion](https://github.com/gcallah/IntroPython/blob/master/notebooks/TypeConversion.ipynb)
 - [Turtle graphics](https://github.com/gcallah/IntroPython/blob/master/notebooks/Turtle.ipynb)
 - [Pandas](https://github.com/gcallah/Python4Finance/blob/master/Introduction%20to%20Pandas.ipynb)
+- [Final Q4](https://github.com/gcallah/IntroPython/blob/master/notebooks/FinalExamQ4.ipynb)
 
 </body>
 </html>
